@@ -1,3 +1,3 @@
 # Digibits
-Digibits - Software for the man
+Software for the man
 
